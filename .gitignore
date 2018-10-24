@@ -14,5 +14,3 @@ local.*
 *.key
 
 pip-selfcheck.json
-
-*.scsc
