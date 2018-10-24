@@ -1,0 +1,16 @@
+__pycache__/
+.idea/
+env/
+inculde/
+lib/
+scripts/
+staticfiles/
+tcl/
+
+local.py
+local.*
+
+*.pyc
+*.key
+
+pip-selfcheck.json
