@@ -1,3 +1,3 @@
 # Star Social
-
+### ...work in progress...
 'Advanced' project from <i>Python and Django Full Stack Web Developer Bootcamp (udemy.com)</i>
